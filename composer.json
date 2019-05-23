@@ -7,7 +7,7 @@
 			"koddas\\PHPWebApplication\\" : "src"
 		}
 	},
-	"name" : "koddas/PHPWebApplication",
+	"name" : "koddas/insultr",
 	"type" : "d",
 	"description" : "A demo PHP application that will insult you",
 	"license" : "MIT",

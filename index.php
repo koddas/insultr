@@ -64,7 +64,7 @@ $app->get('/insult/:year/:month/:day',
 /**
  * The /insult/name endpoint.
  */
-$app->get('/insult/:name', function () use ($app, $utils) {
+$app->get('/insult/:name', function ($name) use ($app, $utils) {
 	$insult = $utils->get_insult($name);
 	$accept = $app->request->headers->get('ACCEPT');
 	
