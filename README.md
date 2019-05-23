@@ -18,6 +18,7 @@ just as fine* on some versions of PHP 5 as well, though
 
 *) The embedded web server, mentioned below, requires PHP 5.4 to run, though.
 
+[![Build Status](https://dev.azure.com/ac8647/Molnkursen/_apis/build/status/koddas.insultr?branchName=master)](https://dev.azure.com/ac8647/Molnkursen/_build/latest?definitionId=3&branchName=master)
 [![Build Status](https://secure.travis-ci.org/koddas/insultr.png?branch=master)](http://travis-ci.org/koddas/insultr)
 
 # How do I build this project?
