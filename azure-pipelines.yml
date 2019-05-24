@@ -11,8 +11,6 @@ pool:
 
 variables:
   phpVersion: 7.2
-  dockerId: molnkursen
-  imageName: insultr
 
 steps:
 - script: |
